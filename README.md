@@ -6,6 +6,22 @@ Simple bot for remote controlling your user by chat
 
 Create a REMOTE_CONTROL_BOT_TOKEN environment variable with the bot token provided by Discord
 
+## Running for development
+
+Install dependencies with `npm install` and run with `npm start`
+
+## Run bot connection test with Discord
+
+Install dependencies with `npm install` and run with `npm test`
+
+## Build for production
+
+Install dependencies with `npm install` and run with `npm run build`, webpack will generate a `dist/discord-remote-control-bot.bundle.js` file
+
+## Run in production
+
+`node ./dist/discord-remote-control-bot.bundle.js`
+
 ## Available Commands
 ###### The bot user must have the corresponding permission for each command
 ###### All commands must be executed when you are connected to a voice channel
