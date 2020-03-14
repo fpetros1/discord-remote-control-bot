@@ -1,0 +1,33 @@
+{
+  "name": "discord-remote-control-bot",
+  "version": "1.0.0-ALPHA",
+  "description": "Simple bot for remote controlling your user by chat",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node index.js",
+    "test": "npx babel-node index.js --test",
+    "build": "npx webpack"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "remote",
+    "control"
+  ],
+  "author": "fpetros",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/node": "^7.8.7",
+    "babel-loader": "^8.0.6",
+    "discord.js": "^12.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "nodemon": "^2.0.2",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
