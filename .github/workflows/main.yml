@@ -20,4 +20,3 @@ jobs:
         run: |
           npm i
           npm test
-        working-directory: ./discord-remote-control-bot
