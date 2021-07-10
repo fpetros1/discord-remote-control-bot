@@ -1,7 +1,5 @@
 # Remote Control Bot
 
-![Tests](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-
 Simple bot for remote controlling your user by chat
 
 ## Environment Configuration
