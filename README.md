@@ -1,6 +1,6 @@
 # Remote Control Bot
 
-[![Test Status](http://jenkins.fpetros.com/buildStatus/icon?job=Test&subject=Test)](http://jenkins.fpetros.com/job/Test/)
+[![Test Status](http://jenkins.fpetros.com/buildStatus/icon?job=Test&subject=Test)](http://jenkins.fpetros.com/job/Test/lastBuild)
 
 Simple bot for remote controlling your user by chat
 
