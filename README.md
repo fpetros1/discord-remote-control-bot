@@ -1,6 +1,6 @@
 # Remote Control Bot
 
-[![Test](https://github.com/fpetros1/discord-remote-control-bot/actions/workflows/main.yml/badge.svg)](https://github.com/fpetros1/discord-remote-control-bot/actions/workflows/main.yml)
+[![Tests](https://github.com/fpetros1/discord-remote-control-bot/actions/workflows/main.yml/badge.svg)](https://github.com/fpetros1/discord-remote-control-bot/actions/workflows/main.yml)
 
 Simple bot for remote controlling your user by chat
 
