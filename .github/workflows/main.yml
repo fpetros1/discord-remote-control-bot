@@ -18,5 +18,6 @@ jobs:
 
       - name: Validate workflows
         run: |
-          npx test
+          npm i
+          npm test
         working-directory: .
